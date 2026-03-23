@@ -1,0 +1,22 @@
+{
+  "name": "htmlcss",
+  "version": "1.0.0",
+  "description": "An intro to HTML and CSS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-mei/htmlcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jonathan-mei/htmlcss/issues"
+  },
+  "homepage": "https://github.com/jonathan-mei/htmlcss#readme"
+}
